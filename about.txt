@@ -1,0 +1,3 @@
+guess a number between 1 to 10 
+if you guess correctly points will go up and u reach next level
+used:js,html,css
